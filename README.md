@@ -1,2 +1,2 @@
-# tf-module-s3
-tf-module-s3
+# terraform-modules
+Terraform modules for visalab project
